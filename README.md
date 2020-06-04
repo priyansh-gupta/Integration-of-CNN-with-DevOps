@@ -1,4 +1,4 @@
-# Integration_of_CNN_with_DevOps-MLOps_Training (given by Mr. Vimal Daga sir)
+# Integration_of_CNN_with_DevOps-MLOps_Training 
 
 ## Work Description :
 
@@ -26,7 +26,7 @@
 
 ### 2. Creating Dockerfile and Building Personal Image using it :
    * Just see the below mentioned picture. Here I create one Dockerfile and run the build command. Remember one thing you have to run this command particularly on that folder where you **Dockerfile** exits.
-   * Here is the link of Dockerfile :https://github.com/raktim00/Integration_of_CNN_with_DevOps-MLOps_Training/blob/master/Dockerfile 
+   * Here is the link of Dockerfile :
    
    ![Dockerfile](Screenshots/Dockerfile.png)
 
@@ -120,5 +120,3 @@
    * 2nd, we can make this work more robust using Kubernetes with Jenkins.
    * 3rd, For CNN code rather that using random function we can make it more intelligent in which it will automatically adds layers based on previous results.
    
-### Lastly thank you so much Vimal Daga Sir, for teaching something extraordinary.
-#### One big thank you to my friend Hemant Sharma, cause he helps me to learn some new things that I applied in this project.
